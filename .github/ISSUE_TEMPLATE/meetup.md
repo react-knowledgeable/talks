@@ -1,5 +1,5 @@
 ---
-name: Monthly
+name: Meetup
 about: Use this template to create a weekly issue.
 title: "<RK /> # - date"
 labels: "meetup"
