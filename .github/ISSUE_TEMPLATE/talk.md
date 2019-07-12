@@ -26,7 +26,7 @@ As you can see above, I have a point to make. Please let me in thanks.
 planner
 ---
 - I prefer to give this talk at: <!-- reference the umbrella issue for the month -->
-- I'd like to schedule a prep discussion with one of the RK kids: <!-- if you'd like someone to discuss with you about your talk as you prepare, request here and we'll schedule a meeting with you :)))) -->
+- Number of minutes needed to ⚡️: <!-- 7 / 8 / 9 / 10 -->
 
 <!--
 What happens after your proposal?
