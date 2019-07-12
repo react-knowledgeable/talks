@@ -1,8 +1,8 @@
 ---
-name: Meetup
-about: Use this template to create a weekly issue.
+name: Event
+about: Use this template to create an event issue.
 title: "<RK /> # - date"
-labels: "meetup"
+labels: "event"
 assignees: ""
 ---
 
