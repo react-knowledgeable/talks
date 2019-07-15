@@ -1,4 +1,4 @@
-# ⚛️ React Knowledgeable
+# ⚛️ `<RK />`
 
 React Knowledgeable, nicknamed `<RK />`, is a fair and friendly podium to share what we learn about React.
 
@@ -28,7 +28,7 @@ If you need ideas to talk, think about the following question
 - Have you been reading the source code of some project and discovered something you previously didn't know? Try packing it into a few bullet points and go lightning about it
 - Maybe you have a full-length talk, consider doing a lightning version at <RK /> and test if your idea makes sense 🤗
 
-## 🎙 Submitting talks
+## 🎙 submitting talks
 
 [Create an issue](https://github.com/react-knowledgeable/talks/issues/new?assignees=&labels=talk&template=talk.md&title=%E2%9A%A1%EF%B8%8F+how+not+to+get+caught+and+be+eaten) at our repo and follow the issue template.
 
