@@ -18,30 +18,15 @@ The guiding principle of `<RK />` is to [#learnInPublic](https://gist.github.com
 
 ## ⚡️ we will be doing lightning talks
 
-So, cool kids. Lightning talks don't mean just short. Lightning talks are super cool and fun, and guess what, compact and fast-paced!
+So, cool kids. Lightning talks don't mean just short. Lightning talks are super cool and fun, and guess what, compact and fast-paced! [Here](https://www.youtube.com/watch?v=WRyk5ZVklFs) is one of the most amazing lightning talk we've seen. Andres Suarez had 270 seconds to introduce everyone to Flow with nuclide, he asks you to buckle up, and at 33 seconds he has his slide that says DEMO.
 
-[Here](https://www.youtube.com/watch?v=WRyk5ZVklFs) is one of the most amazing lightning talk we've seen. Andres Suarez had 270 seconds to introduce everyone to Flow with nuclide, he asks you to buckle up, and at 33 seconds he has his slide that says DEMO.
+If you need ideas to talk, think about the following question
 
-_Need ideas to talk?_
-
-Think about this:
-
-**What is an interesting problem that you encountered this week, and how you managed to solve it?**
-
-Or, when you are running into trouble:
-
-> 🤔 ... this is weird
-> 🧐 ... this is strange
-> 🙄 ... i'm so frustrated
-> 🙊 ... doesn't work
-
-Tweak your inner voice a little bit:
-
-**😎 this is interesting**
-
-Then tell us how it is interesting.
-
-Maybe you are already flying around the world to give conference talks, consider doing a lightning version of your talk at <RK /> and test if your idea makes sense 🤗.
+- What is an interesting problem that you encountered this week? Please tell us how you solved it
+- What is a trending idea that you'd like to give a try? You can build a demo and show-and-tell us about it
+- Are you _just learning_ React? You can talk about your learning progress, where you got confused, and how you managed to get over it (or not yet)
+- Have you been reading the source code of some project and discovered something you previously didn't know? Try packing it into a few bullet points and go lightning about it
+- Maybe you have a full-length talk, consider doing a lightning version at <RK /> and test if your idea makes sense 🤗
 
 ## 🎙 Submitting talks
 
