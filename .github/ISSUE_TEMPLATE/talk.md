@@ -25,7 +25,7 @@ As you can see above, I have a point to make. Please let me in thanks.
 
 planner
 ---
-- I prefer to give this talk at: <!-- reference the umbrella issue for the month -->
+- I prefer to give this talk at: <!-- which month -->
 - Number of minutes needed to ⚡️: <!-- 7 / 8 / 9 / 10 -->
 
 <!--
