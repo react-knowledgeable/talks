@@ -1,6 +1,6 @@
 # ⚛️ `<RK />`
 
-React Knowledgeable, nicknamed `<RK />`, is a fair and friendly podium to share what we learn about React.
+React Knowledgeable, nicknamed `<RK />`, is a fun and friendly podium to share what we learn about React.
 
 This repo is used to collect and organize talk proposals for our events.
 
