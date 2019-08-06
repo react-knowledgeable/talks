@@ -2,28 +2,12 @@
 name: React this month
 about: Use this template to request to deliver this month's React udpates
 title: "⚛ React this month – month year"
-labels: "react this month"
+labels: "react updates"
 assignees: ""
 ---
 
-Please give a summary of topics you wish to cover (as of today):
+Hi React people in this town, we're opening proposals to the opening React updates for our first event in 
 
-- 
-- 
-- 
-
-Number of minutes you need: <!-- ⚡7 / ⚡8 / ⚡9 / ⚡10 -->
-
-<!--
-
-a list of resources you may consult
-
-not exclusive, just a reference, there are many more good resources
-
-- dan abramov's tweets @dan_abramov
-- overreacted.io
-- r/react reddit channel
-- react repo's issues and release notes
-- related libraries repos' issues and release notes
-
--->
+How to participate
+---
+If you'd like to conduct this sharing, **reply this issue** and list your proposed items to share. You may keep editing your proposal. We'll pick a list that seems most interesting by Tuesday, .
