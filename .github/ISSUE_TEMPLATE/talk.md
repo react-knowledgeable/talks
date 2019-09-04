@@ -1,7 +1,7 @@
 ---
 name: Talk
 about: Use this template to create your talk.
-title: "⚡️ how not to get caught and be eaten"
+title: "⚡️ let's talk about this"
 labels: "talk"
 assignees: ""
 ---
