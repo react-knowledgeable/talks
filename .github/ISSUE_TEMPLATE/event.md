@@ -1,7 +1,7 @@
 ---
 name: Event
 about: Use this template to create an event issue.
-title: "<RK /> # - date"
+title: "<RK⚡️ issue={#} /> - date"
 labels: "event"
 assignees: ""
 ---
@@ -17,7 +17,7 @@ assignees: ""
 - any friends / guests visiting
 -->
 
-And we hope to hear more from **YOU**. To propose a talk, [create an issue here](https://github.com/react-knowledgeable/talks/issues/new?assignees=&labels=event&template=event.md&title=%3CRK+%2F%3E+%23+-+date). We'll reference your talk under this issue once we confirm with your schedule.
+To propose a talk, [create an issue here](https://github.com/react-knowledgeable/talks/issues/new?assignees=&labels=event&template=event.md&title=%3CRK+%2F%3E+%23+-+date). We'll reference your talk under this issue once we confirm with your schedule.
 
 
 Agenda
