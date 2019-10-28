@@ -17,7 +17,10 @@ who are you and where to find you
 
 intro of the talk
 ---
+<!-- intro starts -->
+<!-- please help place your intro between "intro starts" and "intro ends" to be picked up by our website, thanks! -->
 
+<!-- intro ends -->
 
 planner
 ---
