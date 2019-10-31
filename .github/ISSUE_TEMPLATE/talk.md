@@ -6,7 +6,12 @@ labels: "talk"
 assignees: ""
 ---
 
-<!-- Every talk must come with an emoji in the title -->
+<!-- 
+
+- Every talk must come with an emoji in the title 
+- Feel free to choose a topic label as well, our website lists talks by topic wo
+
+-->
 
 
 <!-- Consider this template, but writing whatever about your talk also can -->
@@ -30,6 +35,5 @@ planner
 <!--
 What happens after the proposal?
 - We'll contact you on GitHub directly. If you prefer private conversation, please leave your preferred way of contact.
-- Once your topic and time is confirmed, we'll reference your issue in the umbrella issue of the event. 
 - If you have any questions, feel free to reach out via twitter @reknowledgeable
 -->
