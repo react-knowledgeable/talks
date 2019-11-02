@@ -1,6 +1,6 @@
 # Code of Conduct
 
-All attendees, speakers and guests at our events are required to agree to the following code of conduct. Organisers of React Knowledgeable [Wei Gao](https://github.com/wgao19), [Ken Lee](https://github.com/KenLSM) and [Jennie Ji](https://github.com/jennieji) will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
+All attendees, speakers and guests at our events are required to agree to the following code of conduct. Organisers of React Knowledgeable [Wei Gao](https://github.com/wgao19), [Ken Lee](https://github.com/KenLSM), [Jennie Ji](https://github.com/jennieji), [Thomas Chia](https://twitter.com/th__chia), [Yishu See](https://twitter.com/yishusee), and [VimalRaj Selvam](https://twitter.com/email2vimalraj) will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
 ## The Quick Version
 
