@@ -27,10 +27,14 @@ intro of the talk
 
 <!-- intro ends -->
 
-planner
----
-- I prefer to give this talk at: <!-- can reference issue of that month -->
+<details>
+  <summary>planner</summary>
+
+- I prefer to give this talk at: react-knowledgeable/events#${issueNumber} <!-- can reference issue of that month -->
 - Number of minutes needed to ⚡️: <!-- 7 / 8 / 9 / 10 -->
+- [x] I am happy to have this talk recorded by @engineersftw (by default, we record talks to be accessible by more audience, if you don't want, please uncheck this)
+
+</details>
 
 <!--
 What happens after the proposal?
