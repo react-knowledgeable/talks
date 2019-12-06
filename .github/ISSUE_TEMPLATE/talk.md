@@ -16,14 +16,22 @@ assignees: ""
 
 <!-- Consider this template, but writing whatever about your talk also can -->
 
-who are you and where to find you
+speaker
 ---
+<!-- who are you and where to find you, tell us something interesting about you maybe? -->
 
 
-intro of the talk
----
 <!-- please help place your intro between "intro starts" and "intro ends" to be picked up by our website, thanks! -->
 <!-- intro starts -->
+
+intro
+---
+<!-- 1 min intro of your talk plz -->
+
+resources
+---
+<!-- links to slides / relevant links -->
+
 
 
 <!-- intro ends -->
